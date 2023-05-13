@@ -35,7 +35,7 @@ function Pelis() {
 
             )
           })}
-<Presentacion />
+
       </div>
 
     </div>
