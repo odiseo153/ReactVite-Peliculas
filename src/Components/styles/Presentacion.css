@@ -9,6 +9,7 @@
 width: 1100px;
 height: 540px;
 position: relative;
+background-color: white;
 left: 200px;
 top: 100px;
 }
@@ -62,6 +63,7 @@ h4
 #pretodo
 {
 border-radius: 10px;
+
 }
 
 #so1
