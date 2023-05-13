@@ -1,9 +1,9 @@
 import { useState } from 'react'
-import Obtencion from './Components/routes'
+
 import Presentacion from './Components/Presentacion'
 import './Components/styles/Presentacion.css'
 import './Components/styles/slider.css'
-
+import Pelis from './Components/Pelis'
 
 function App() {
 
@@ -12,8 +12,7 @@ function App() {
     <div className="App">
      
 
- 
-   <Obtencion />
+ <Pelis/>
 
     </div>
   )

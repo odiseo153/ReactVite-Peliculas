@@ -34,7 +34,7 @@ console.log(e)
   <h1 >Odiseo Esmerlin Rincon Sanchez</h1>
   <h4>Web Development</h4>
   <div className="card-body" id='texto'>
-  <p id='pr' className="card-text">Hi, I'm a web developer with experience in programming languages ​​like HTML, CSS, JavaScript,React,C# Web Api and Asp.Net, and developing web applications on multiple platforms. I have a solid understanding of web design principles and development best practices, having worked on projects from the planning phase through deployment and maintenance. I am passionate about creating effective and engaging web experiences for users, and am constantly updating myself on the latest technologies and trends in the field of web development to improve my skills and knowledge.</p>
+  <p id='pr' className="card-text">Hi, I'm a web developer with experience in programming languages ​​like HTML, CSS, JavaScript,React,C# Web Api,Asp.Net,nodejs, and developing web applications on multiple platforms. I have a solid understanding of web design principles and development best practices, having worked on projects from the planning phase through deployment and maintenance. I am passionate about creating effective and engaging web experiences for users, and am constantly updating myself on the latest technologies and trends in the field of web development to improve my skills and knowledge.</p>
  
    
  

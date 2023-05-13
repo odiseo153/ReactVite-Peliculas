@@ -3,9 +3,10 @@ import Muestra from './Muestra.jsx';
 import style from './styles/Obtencion.module.css' 
 import Slider from './Slider.jsx';
 import data from '../data/Pelis.json'
+import Presentacion from './Presentacion.jsx';
 
 
-function Comp() {
+function Pelis() {
 
   const [datos,setDatos] = useState(data);
   
@@ -15,12 +16,10 @@ function Comp() {
 
 <div className={style.slider}>
 <Slider/>
+
 </div>
 
       <div className={style.con}>
-      
-
-
         {datos.map(e =>
           {
             return(
@@ -37,8 +36,9 @@ function Comp() {
             )
           })}
       </div>
+<Presentacion />
     </div>
   );
 }
 
-export default Comp;
+export default Pelis;
