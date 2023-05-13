@@ -34,11 +34,7 @@ setVa(false)
      
 
  <Pelis/>
-<button onClick={mostrar}>mostrar</button>
 
-<div id='yo'>
-<Presentacion />
-</div>
     </div>
   )
 }

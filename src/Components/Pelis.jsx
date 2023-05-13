@@ -20,6 +20,9 @@ function Pelis() {
 </div>
 
       <div className={style.con}>
+<Presentacion />
+<br/>
+<br/>
         {datos.map(e =>
           {
             return(

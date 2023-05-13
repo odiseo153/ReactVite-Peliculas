@@ -1,5 +1,6 @@
 import { useState,useEffect } from "react";
 import React from 'react'
+import Presentacion from "./Presentacion";
 import data from '../data/Pelis.json'
 function Slider() {
   
@@ -21,7 +22,9 @@ function Slider() {
            </li>
            )
         })}
+<Presentacion />
     </ul>
+
     </div>
   )
 }

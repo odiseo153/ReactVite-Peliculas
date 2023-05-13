@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import style from './styles/Obtencion.module.css' 
-
+import Presentacion from './Presentacion';
   const Muestra = ({imagen,descripcion,video})=>
   {
  return(
   <div> 
+
  <a href={video} target="_blank">
     <div className={style.con}>
     <div id={style.container}>
