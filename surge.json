@@ -1,0 +1,10 @@
+{
+  "project": "Fronted",
+  "domain": "https://reactmovies.surge.sh/",
+  "rewrites": [
+    {
+      "source": "**",
+      "destination": "/index.html"
+    }
+  ]
+}

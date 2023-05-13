@@ -1,0 +1,115 @@
+
+
+.con
+{
+ background-color: rgb(242, 236, 236);
+ border: 2px solid rgba(255,255,255,0.1);
+ border-radius: 20px;
+background-color: white;
+ backdrop-filter: blur(5px);
+ background: transparent;
+ justify-content: center;
+ align-items: center;
+  border-radius: 10px;
+}
+
+#h
+{
+  color: rgb(140, 5, 5);  
+  font-family: 'Vina Sans', cursive;
+text-align: center;
+font-size: 3rem;
+background-color: #152822;
+height: 70px;
+align-items: center;
+position: relative;
+}
+
+#ima
+{
+ height: 100%;
+    width: 100%;
+     background-repeat: no-repeat;
+
+    bottom: 0;
+    background-size: 100% 100%;
+    border-radius: 8px;
+    transition: 1s;
+}
+
+#pelis:hover #ima
+{
+   transform: scale(0.5,0.35) translateY(-650px);
+    border-radius: 50%;
+    background-size: 100% 150%;
+    background-position: 0 -25px;
+    transition: 1s;
+}
+
+
+
+#texto
+{
+  
+  border-radius: 10px;
+
+  overflow-wrap: break-word;
+  padding: 3px;
+  font-size: 1.2rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: transparent;
+  display: flex;
+position: center;
+top: 200px; 
+left: 70px;
+
+  flex-direction: column;
+
+
+  visibility: hidden;
+}
+
+#pelis
+{
+   height: 610px; 
+    width: 410px;
+ display:inline-flex;
+transform: scale(0.7);
+    background-color: #fff;
+ 
+    border-radius: 8px;
+    box-shadow: 0 0 88px 1px #4169b0;
+}
+
+
+
+
+
+#pelis:hover #texto
+{
+  width: 100%;
+  height: 100%;
+  visibility: visible;
+  transition: 1s;
+}
+
+
+.slider
+{
+  height: 250px;
+border-radius: 10px;
+}
+
+
+
+#bio {
+width:380px;
+position: relative;
+left: -50px;
+align-items: center;
+    height:400px;
+border: none;
+}
+

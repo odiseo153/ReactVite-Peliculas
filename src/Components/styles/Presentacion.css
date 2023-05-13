@@ -1,0 +1,92 @@
+#imaPre
+{
+    width: 400px;
+
+    
+}
+
+.card{
+width: 1100px;
+height: 540px;
+position: relative;
+left: 200px;
+top: 100px;
+}
+
+
+h1
+{
+    position: relative;
+    left: 450px;
+    top:-450px
+}
+
+h4
+{
+    position: relative;
+    left: 454px;
+    top:-440px;
+    font-family: Lucida Bright, sans-serif;
+}
+
+#texto{
+    width: 700px;
+    height: 300px;
+    position: relative;
+    left: 400px;
+    top: -450px;
+
+    
+}
+
+#icon
+{
+    width: 30px;
+    height: 30px;
+        
+}
+
+#social
+{
+
+    display: flex;
+}
+
+#so
+{
+    position: relative;
+    left: 20px;
+}
+
+
+#so1
+{
+    position: relative;
+    left: 40px;
+}
+
+#so2
+{
+    position: relative;
+    left: 70px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
