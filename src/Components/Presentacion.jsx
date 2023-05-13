@@ -28,7 +28,7 @@ console.log(e)
 
   
     return (
-    <div>
+    <div id='pretodo'>
  <div className="card" >
   <img className="card-img-top" id='imaPre' src='/src/data/odise.jpg'  alt="Card image cap" />
   <h1 >Odiseo Esmerlin Rincon Sanchez</h1>
