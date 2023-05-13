@@ -35,8 +35,9 @@ function Pelis() {
 
             )
           })}
-      </div>
 <Presentacion />
+      </div>
+
     </div>
   );
 }
