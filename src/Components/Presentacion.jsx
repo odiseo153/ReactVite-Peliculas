@@ -30,7 +30,7 @@ console.log(e)
     return (
     <div id='pretodo'>
  <div className="card" >
-  <img className="card-img-top" id='imaPre' src='/src/data/odise.jpg'  alt="Card image cap" />
+  <img className="card-img-top" id='imaPre' src='odise.jpg'  alt="Card image cap" />
   <h1 >Odiseo Esmerlin Rincon Sanchez</h1>
   <h4>Web Development</h4>
   <div className="card-body" id='texto'>
